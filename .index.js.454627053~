@@ -1,0 +1,35 @@
+console.log("hello")
+
+/*
+Hello apprentice, we will be diving deeper into types and expolring a little bit of type cohersion in the extended lab.
+
+Follow the propmpts and then follow the link to read about it
+*/
+
+
+/*
+since today we learned that we can assign numbers to vatriables 
+
+i want you to recreate this equation using varibles as place holders 
+
+-----------------------------------------------------------------------
+example:
+
+let one = 1
+
+let two = 2 
+
+let sum = one + two 
+
+console.log(sum) 
+
+you can use a calculator to be able to confirm its correct 
+-----------------------------------------------------------------------
+
+
+
+
+
+*/
+
+
