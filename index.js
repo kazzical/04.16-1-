@@ -39,13 +39,11 @@ I suggest just commenting out a section when you move to another part of the cod
 You can make a comment by placing // in front of the code.
 */
 
-
-
-
-
-
-
-
+let num=5;//
+let num2=2;//
+let sum = num + num2;//
+let multi = sum * 4;//
+let div = multi/2;//
 
 
 /*
@@ -69,7 +67,7 @@ console.log(myNum); // This will log 2 since we increased it by one.
 let myNumber = 1; // Always start by declaring your variable. (Notice that I'm not using the same variable name.)
 
 // This syntax is the same as doing -> myNumber = MyNumber + 5.
-myNumber += 5;
+myNumber += 9;
 
 console.log(myNumber); // This will log 6 since we added 5 to the variable.
 // Below, play around with your own examples.

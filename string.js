@@ -42,7 +42,6 @@ let myName = "Leonardo"; // start by declaring a variable
 // Bracket notation is the special syntax that allows us to access the individual characters that make up a string. To access a character, we use the syntax someString[i], where i is the index of the character we want to access. - google 
 
 let firstChar = myName[0]; // this is the syntax for indexing; there are two major ways but the one we will be using is called bracket notation
-
 console.log(firstChar);// this will log "L" 
 
 // Can you grab the last character below 
@@ -63,11 +62,11 @@ So after you grabbed it, I want you to look into these two methods:
 Use these two methods to do the next two tasks ->
 
 1. Can you use the .length method to grab the last char in myCrazyChar?
-
 2. Use the indexOf method to find the index of the character "q" inside of myCrazyChar.
 */
 const myCrazyChar = "adhbfakwhbflakwhberflahbfqlkawhbeflcjaewlkfjhcalwkejfhcakwehfjc"
 
-
+let length = myCrazyChar.length;
+myCrazyChar.indexOf("q");
 
 
